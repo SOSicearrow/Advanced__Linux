@@ -1,6 +1,0 @@
-#!/bin/bash
-#ch7.5 for loop
-#animals
-for animal in moose cow goose sow ; do
-echo "I have a $animal."
-done
